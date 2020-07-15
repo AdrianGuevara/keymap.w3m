@@ -158,8 +158,8 @@ keymap :O OPTIONS
 keymap :d DOWNLOAD_LIST
 
 ########## history navigation ##########
-keymap L NEXT
-keymap H PREV
+keymap C-o NEXT
+keymap C-i PREV
 keymap :p SELECT_MENU
 keymap :h HISTORY
 
